@@ -43,9 +43,10 @@
 ---
 
 ### 📫 Connect with me
-<p align="left">
-<a href="https://linkedin.com/in/shivam-jangid0303" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shivam-jangid0303" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/shivamjangid0108" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="shivamjangid0108" height="30" width="40" /></a>
-<a href="https://leetcode.com/shivamj0303/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="shivamj0303" height="30" width="40" /></a>
-<a href="mailto:shivam.email@example.com" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" alt="shivam.email" height="30" width="40" /></a>
+
+<p align="center">
+  <a href="https://linkedin.com/in/shivam-jangid0303"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="40"/></a>
+  <a href="https://www.hackerrank.com/shivamjangid0108"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" width="40"/></a>
+  <a href="https://leetcode.com/shivamj0303/"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" width="40"/></a>
+  <a href="mailto:shivam.email@example.com"><img src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" width="40"/></a>
 </p>
