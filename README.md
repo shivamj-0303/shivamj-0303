@@ -7,11 +7,47 @@
 
 ---
 
-### 🔭 Currently working on
-- **[OpsGuard](https://github.com/shivamj-0303/Ops-Guard)** – Open-source AI SRE platform for runtime incident detection, intelligent root cause analysis, and approval-based auto-remediation (Python, FastAPI, Docker, Ollama, Llama 3, Git)
+### 🔭 Currently Working On
+
+- **[OpsGuard](https://github.com/shivamj-0303/Ops-Guard)** – Open-source AI-powered SRE platform for runtime incident detection, intelligent root cause analysis, and approval-based auto-remediation using Python, FastAPI, Docker, Ollama, Llama 3, and Git.
+
 ---
 
-### 💻 Skills & Tools
+## Projects
+
+### Attendly
+A modern attendance management platform built to simplify attendance tracking for educational institutions and organizations.
+
+**Highlights**
+- Secure authentication and role-based access control
+- Real-time attendance management
+- Student and faculty dashboards
+- Analytics and attendance reports
+- Responsive and scalable full-stack architecture
+
+**Tech Stack:** React, Java, Spring-Boot, GitHub Action, Render, PostgreSQL, JWT, Docker
+
+> 🔗: https://attendly-tau.vercel.app/
+
+---
+
+### Infinite Prints
+A full-stack e-commerce platform for customized print products with a modern shopping experience.
+
+**Highlights**
+- Product catalog with search and filtering
+- Shopping cart and secure checkout flow
+- User authentication and order management
+- Admin dashboard for product and inventory management
+- Responsive UI with scalable backend architecture
+
+**Tech Stack:** React, Java, Spring-Boot, PostgreSQL, Docker
+
+> 🔗: https://infinite-layers-frontend.vercel.app/
+
+---
+
+### Skills & Tools
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" />
@@ -33,7 +69,8 @@
 
 ---
 
-### 📊 GitHub Stats
+### GitHub Stats
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=shivamj-0303&show_icons=true&locale=en&theme=radical" alt="shivamj-0303" height="150" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=shivamj-0303&show_icons=true&locale=en&layout=compact&theme=radical" alt="shivamj-0303" height="150" />
@@ -41,7 +78,7 @@
 
 ---
 
-### 📫 Connect with me
+### Connect with Me
 
 <p align="center">
   <a href="https://linkedin.com/in/shivam-jangid0303"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="40"/></a>
