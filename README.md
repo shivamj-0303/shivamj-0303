@@ -8,8 +8,7 @@
 ---
 
 ### 🔭 Currently working on
-- **[Attendly](https://attendly-tau.vercel.app/)** – Full-stack attendance management app (Java, Spring Boot, React, Android, PostgreSQL, Docker, GitHub Actions, Render, Vercel)
-
+- **[OpsGuard](https://github.com/shivamj-0303/Ops-Guard)** – Open-source AI SRE platform for runtime incident detection, intelligent root cause analysis, and approval-based auto-remediation (Python, FastAPI, Docker, Ollama, Llama 3, Git)
 ---
 
 ### 💻 Skills & Tools
